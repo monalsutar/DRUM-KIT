@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(249, 214, 220);
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+button{
+    height: 100px;
+    width: 100px;
+    background-color: palevioletred;
+    border: none;
+    border-radius: 10px;
+    margin: 20px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
